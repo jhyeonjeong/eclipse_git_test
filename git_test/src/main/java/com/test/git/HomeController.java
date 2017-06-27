@@ -38,7 +38,7 @@ public class HomeController {
 		System.out.println("world's end dancehall ");
 		System.out.println("hello dance world");
 		System.out.println("add java project git_test2 push");
-		
+		System.out.println("World with Git");
 		return "home";
 	}
 	
