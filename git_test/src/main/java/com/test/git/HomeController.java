@@ -34,11 +34,11 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		System.out.println("hello world ÇöÁ¤");
+		System.out.println("hello world Ã‡Ã¶ÃÂ¤");
 		System.out.println("world's end dancehall ");
 		System.out.println("hello dance world");
 		System.out.println("add java project git_test2 push");
-		
+		System.out.println("World with java
 		return "home";
 	}
 	
